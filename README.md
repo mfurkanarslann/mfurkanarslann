@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Merhaba! Ben mfurkanarslann
 
-<!--
-**mfurkanarslann/mfurkanarslann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Yazılım geliştirmeye yeni başladım ve bu yolculuğu GitHub üzerinden belgelemek istiyorum. Özellikle web geliştirme, Flutter ve JavaScript konularına ilgi duyuyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Kullandığım / Öğrendiğim Teknolojiler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- Flutter
+- Git & GitHub
+
+## 📌 Amaçlarım
+
+- Yeni teknolojiler öğrenmek
+- Kendi projelerimi geliştirmek
+- Açık kaynak dünyasına katkıda bulunmak
+
+## 🧠 Şu anda öğreniyorum
+
+- React.js
+- API kullanımı
+- Git versiyon kontrol sistemi
+
+## 📫 Bana ulaşın
+
+- E-posta: mfurkanarslann@gmail.com
+- LinkedIn: https://www.linkedin.com/in/muhammed-furkan-arslan-692a1b16a/
+
+---
+
+💡 Bu profil zamanla gelişecek! Öğrendikçe, geliştirdikçe burayı güncellemeye devam edeceğim. Takipte kalın 😊
